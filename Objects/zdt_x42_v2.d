@@ -1,0 +1,17 @@
+.\objects\zdt_x42_v2.o: ..\BSP\ZDT_X42_V2.c
+.\objects\zdt_x42_v2.o: ..\BSP\ZDT_X42_V2.h
+.\objects\zdt_x42_v2.o: ..\BSP\usart.h
+.\objects\zdt_x42_v2.o: ..\BSP\board.h
+.\objects\zdt_x42_v2.o: ..\CMSIS\stm32f10x.h
+.\objects\zdt_x42_v2.o: ..\CMSIS\core_cm3.h
+.\objects\zdt_x42_v2.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\zdt_x42_v2.o: ..\CMSIS\system_stm32f10x.h
+.\objects\zdt_x42_v2.o: ..\APP\stm32f10x_conf.h
+.\objects\zdt_x42_v2.o: D:\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\zdt_x42_v2.o: ..\LIB\STM32F10x_StdPeriph_Lib_V3.5.0\inc\stm32f10x_gpio.h
+.\objects\zdt_x42_v2.o: ..\CMSIS\stm32f10x.h
+.\objects\zdt_x42_v2.o: ..\LIB\STM32F10x_StdPeriph_Lib_V3.5.0\inc\stm32f10x_rcc.h
+.\objects\zdt_x42_v2.o: ..\LIB\STM32F10x_StdPeriph_Lib_V3.5.0\inc\stm32f10x_usart.h
+.\objects\zdt_x42_v2.o: ..\LIB\STM32F10x_StdPeriph_Lib_V3.5.0\inc\misc.h
+.\objects\zdt_x42_v2.o: ..\DRIVERS\fifo.h
+.\objects\zdt_x42_v2.o: ..\DRIVERS\delay.h

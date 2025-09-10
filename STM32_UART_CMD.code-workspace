@@ -1,0 +1,24 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../APP"
+        },
+        {
+            "path": "../BSP"
+        },
+        {
+            "path": "../CMSIS"
+        },
+        {
+            "path": "../DRIVERS"
+        },
+        {
+            "path": "../LIB"
+        }
+    ],
+    "settings": {},
+    "extensions": {}
+}
