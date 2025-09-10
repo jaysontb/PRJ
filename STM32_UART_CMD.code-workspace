@@ -1,22 +1,28 @@
 {
     "folders": [
         {
+            "name": "PRJ",
             "path": "."
         },
         {
+            "name": "APP",
             "path": "../APP"
         },
         {
+            "name": "BSP",
             "path": "../BSP"
         },
         {
+            "name": "CMSIS",
             "path": "../CMSIS"
         },
         {
-            "path": "../DRIVERS"
+            "name": "LIB",
+            "path": "../LIB"
         },
         {
-            "path": "../LIB"
+            "name": "DRIVERS",
+            "path": "../DRIVERS"
         }
     ],
     "settings": {},
