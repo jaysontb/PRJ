@@ -42,6 +42,12 @@
           },
           {
             "path": "../BSP/board.h"
+          },
+          {
+            "path": "../BSP/sys.c"
+          },
+          {
+            "path": "../BSP/sys.h"
           }
         ],
         "folders": []
@@ -84,6 +90,36 @@
           },
           {
             "path": "../DRIVERS/OLED_Font.h"
+          },
+          {
+            "path": "../DRIVERS/dmpKey.h"
+          },
+          {
+            "path": "../DRIVERS/dmpmap.h"
+          },
+          {
+            "path": "../DRIVERS/inv_mpu.c"
+          },
+          {
+            "path": "../DRIVERS/inv_mpu.h"
+          },
+          {
+            "path": "../DRIVERS/inv_mpu_dmp_motion_driver.c"
+          },
+          {
+            "path": "../DRIVERS/inv_mpu_dmp_motion_driver.h"
+          },
+          {
+            "path": "../DRIVERS/mpu6050.c"
+          },
+          {
+            "path": "../DRIVERS/mpu6050.h"
+          },
+          {
+            "path": "../DRIVERS/MPU6050_I2C.c"
+          },
+          {
+            "path": "../DRIVERS/MPU6050_I2C.h"
           }
         ],
         "folders": []
