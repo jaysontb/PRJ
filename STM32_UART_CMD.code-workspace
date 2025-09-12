@@ -25,6 +25,10 @@
             "path": "../DRIVERS"
         }
     ],
-    "settings": {},
+    "settings": {
+        "files.associations": {
+            "mpu6050_i2c.h": "c"
+        }
+    },
     "extensions": {}
 }
