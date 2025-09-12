@@ -27,7 +27,8 @@
     ],
     "settings": {
         "files.associations": {
-            "mpu6050_i2c.h": "c"
+            "mpu6050_i2c.h": "c",
+            "stdint.h": "c"
         }
     },
     "extensions": {}
