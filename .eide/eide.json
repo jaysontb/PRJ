@@ -120,6 +120,18 @@
           },
           {
             "path": "../DRIVERS/MPU6050_I2C.h"
+          },
+          {
+            "path": "../DRIVERS/motor.c"
+          },
+          {
+            "path": "../DRIVERS/motor.h"
+          },
+          {
+            "path": "../DRIVERS/move.c"
+          },
+          {
+            "path": "../DRIVERS/move.h"
           }
         ],
         "folders": []
