@@ -29,7 +29,9 @@
         "files.associations": {
             "mpu6050_i2c.h": "c",
             "stdint.h": "c",
-            "inv_mpu.h": "c"
+            "inv_mpu.h": "c",
+            "move.h": "c",
+            "board.h": "c"
         }
     },
     "extensions": {}
